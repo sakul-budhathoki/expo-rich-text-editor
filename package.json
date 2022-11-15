@@ -37,7 +37,7 @@
     "format": "npx prettier --write 'src/**/*.ts*'"
   },
   "peerDependencies": {
-    "react": ">=18.0",
+    "react": "*",
     "react-native": "*",
     "react-native-webview": "*"
   },
